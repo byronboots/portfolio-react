@@ -13,6 +13,7 @@ export const Projects = () => {
     {
       title: "Portfolio Website",
       description: "Design & development of my own website",
+      link: "https://github.com/byronboots/portfolio-react",
       imgUrl: projImg1,
     },
     {
@@ -36,7 +37,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>Projects I've developed (includes both public and private repos)</p>
+                <p>Projects I've developed (includes both public and private repos, private repos won't have a link)</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>

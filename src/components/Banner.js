@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/header-img.svg";
+import headerImg from "../assets/img/header-img.png";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import TrackVisibility from 'react-on-screen';
 
@@ -54,10 +54,10 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <span className="tagline">Welcome to my Portfolio</span>
+                <span className="tagline">Welcome to my Portfolio!</span>
                 <h1>{`Hi! I'm Byron: `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Software Engineer", "Automation Engineer", "Student", "Security Engineer"  ]'><span className="wrap">{text}</span></span></h1>
-                  <p>I'm a Computer Science student at Oregon State University and am passionate about learning and growing my skills as well as developing impactful software. </p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <br></br>
+                  <p>I'm a Computer Science student at Oregon State University and am passionate about learning and growing my skills as well as developing impactful software. The picture over &rarr; is Lucy </p>
               </div>}
             </TrackVisibility>
           </Col>
