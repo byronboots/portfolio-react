@@ -1,8 +1,6 @@
 import star from "../assets/img/star.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import arrow1 from "../assets/img/arrow1.svg";
-import arrow2 from "../assets/img/arrow2.svg";
 import colorSharp from "../assets/img/color-sharp.png"
 
 export const Skills = () => {
@@ -36,27 +34,27 @@ export const Skills = () => {
                         <p>I'm continuing to grow my skillset through school and other online resources as well as on the job experience building solutions to real-world challenges<br></br> Check out a few of my highlighted skills below: </p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                                <img src={star} alt="Image" />
+                                <img src={star} alt="star" />
                                 <h5>Software Engineering</h5>
                             </div>
                             <div className="item">
-                                <img src={star} alt="Image" />
+                                <img src={star} alt="star" />
                                 <h5>Automation</h5>
                             </div>
                             <div className="item">
-                                <img src={star} alt="Image" />
+                                <img src={star} alt="star" />
                                 <h5>Collaboration</h5>
                             </div>
                             <div className="item">
-                                <img src={star} alt="Image" />
+                                <img src={star} alt="star" />
                                 <h5>Problem Solving</h5>
                             </div>
                             <div className="item">
-                                <img src={star} alt="Image" />
+                                <img src={star} alt="star" />
                                 <h5>Program Management</h5>
                             </div>
                             <div className="item">
-                                <img src={star} alt="Image" />
+                                <img src={star} alt="star" />
                                 <h5>Innovation</h5>
                             </div>
                         </Carousel>
