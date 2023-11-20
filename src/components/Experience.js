@@ -10,8 +10,8 @@ export function Experience() {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Education & Experience</h2>
-                        <Accordion alwaysOpen>
-                            <Accordion.Item eventKey="0">
+                        <Accordion className='accordion' alwaysOpen>
+                            <Accordion.Item className="accordion-item" eventKey="0">
                                 <Accordion.Header className='experience-bx'><BriefcaseFill className='icon'/>  Senior Security Assurance Engineer, GitLab</Accordion.Header>
                                     <Accordion.Body className='experience-p'>
                                         <CalendarFill className='icon'/>October 2020 - Present
