@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import { useEffect, useState } from 'react';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/nav-icon2.svg';
+import navIcon4 from '../assets/img/nav-icon4.svg';
 
 
 function NavBar() {
@@ -44,8 +45,9 @@ function NavBar() {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a href="https://www.linkedin.com/in/byronboots/" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt='' /></a>
-                <a href="https://github.com/byronboots" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt='' /></a>
+                <a href="https://www.linkedin.com/in/byronboots/" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt='LinkedIn' /></a>
+                <a href="https://github.com/byronboots" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt='GitHub' /></a>
+                <a href="https://www.youtube.com/@byron_boots" target="_blank" rel="noopener noreferrer"><img src={navIcon4} alt='YouTube' /></a>
             </div>
             {/* <button className='vvd' onClick={() => console.log('connect')}><span>Let's Connect</span></button> */}
         </span>
