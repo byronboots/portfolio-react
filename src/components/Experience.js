@@ -27,37 +27,42 @@ export function Experience() {
                                 <Accordion.Header className='experience-bx'><BriefcaseFill className='icon'/>Senior Associate IT Advisory, KPMG</Accordion.Header>
                                     <Accordion.Body className='experience-p'>
                                         <CalendarFill className='icon'/>July 2016 - October 2020
-                                            <br></br>
-                                            <br></br>
+                                        <br></br>
+                                        <br></br>
                                         During my time at KPMG I led a variety of attestation, assurance and advisory engagements (SOX, SOC 1 and SOC 2) across industries from mid-market to Global 100 companies. I focused heavily on conducting business process and IT design evaluations for clients to then develop and tactically implement strong and scalable risk management frameworks and streamline compliance. As part of my work I led teams of staff and  managed the budget for both first year and recurring engagements.
                                     </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="2">
                                 <Accordion.Header className='experience-bx'><MortarboardFill className='icon'/>BS Computer Science, Oregon State University</Accordion.Header>
                                     <Accordion.Body className='experience-p'>
-                                    <CalendarFill className='icon'/>September 2022 - December 2024 (Anticipated)
+                                        <CalendarFill className='icon'/>September 2022 - December 2024 (Anticipated)
                                         <br></br>
                                         <br></br>
-                                    I'm a current Computer Science student at Oregon State University with anticipated graduation in December 2024. I've completed courses in Python Development, Data Structures, Algorithms, Discrete Structures, Web Development, Architecture and Assembly Development, and Database Management. During my time in the program I've gained experience with Python, JavaScript, SQL and NoSQL DBs, HTML, CSS, x86 Assembly, Git, React, Flask, Bash and other technologies and frameworks.
-                                    <br></br>
-                                    <br></br>
-                                    I've also participated in sponsored Hackathons and school sponsored events to gain additional experience and apply my learned skills. Building outside of school, I've enjoyed playing around with Web Development, Security, and puzzle solving through activities such as Advent of Code.
+                                        I'm a current Computer Science student at Oregon State University with anticipated graduation in December 2024. I've completed courses in Python Development, Data Structures, Algorithms, Discrete Structures, Web Development, Architecture and Assembly Development, and Database Management. During my time in the program I've gained experience with Python, JavaScript, SQL and NoSQL DBs, HTML, CSS, x86 Assembly, Git, React, Flask, Bash and other technologies and frameworks.
+                                        <br></br>
+                                        <br></br>
+                                        I've also participated in sponsored Hackathons and school sponsored events to gain additional experience and apply my learned skills. Building outside of school, I've enjoyed playing around with Web Development, Security, and puzzle solving through activities such as Advent of Code.
                                     </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="3">
                                 <Accordion.Header className='experience-bx'><MortarboardFill className='icon'/>BS Management Information Systems, University of Montana</Accordion.Header>
                                     <Accordion.Body className='experience-p'>
-                                    <CalendarFill className='icon'/>August 2012 - May 2016
+                                        <CalendarFill className='icon'/>August 2012 - May 2016
                                         <br></br>
                                         <br></br>
+                                        I hold a Bachelor's degree from the University of Montana and Davidson Honors College in Management Information Systems (MIS) where I graduated with honors and completed studies in Data Analytics, Program Management and Information Systems Design.
+                                        <br></br>
+                                        <br></br>
+                                        I also obtained an Accounting Information Systems certificate with completed courses in Corporate Reporting, Multinational Financial Management, and Auditing.
                                     </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="4">
                                 <Accordion.Header className='experience-bx'><MortarboardFill className='icon'/>BS International Business, University of Montana</Accordion.Header>
                                     <Accordion.Body className='experience-p'>
-                                    <CalendarFill className='icon'/>August 2012 - May 2016
+                                        <CalendarFill className='icon'/>August 2012 - May 2016
                                         <br></br>
                                         <br></br>
+                                        I hold a Bachelor's degree from the University of Montana and Davidson Honors College in International Business where I graduated with honors and completed studies in Mutltinational Financial Management, Global Operations and Supply Chains, and Cross Cultural Management and Collaboration.
                                     </Accordion.Body>
                             </Accordion.Item>
                         </Accordion>
