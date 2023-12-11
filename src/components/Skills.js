@@ -57,6 +57,86 @@ export const Skills = () => {
                                 <img src={star} alt="star" />
                                 <h5>Innovation</h5>
                             </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Python</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>JavaScript</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Node.js</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>React</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Flask</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>MySQL</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>MongoDB</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Bash</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Express</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Git</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Data Structures</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Algorithms</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Web Development</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>HTML</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>CSS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>PowerBI</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>GitHub</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>CI/CD</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>DevOps</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Object Oriented Programming</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
