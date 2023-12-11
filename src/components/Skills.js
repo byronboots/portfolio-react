@@ -119,6 +119,10 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={star} alt="star" />
+                                <h5>MacOS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
                                 <h5>PowerBI</h5>
                             </div>
                             <div className="item">
@@ -136,6 +140,10 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={star} alt="star" />
                                 <h5>Object Oriented Programming</h5>
+                            </div>
+                            <div className="item">
+                                <img src={star} alt="star" />
+                                <h5>Linux</h5>
                             </div>
                         </Carousel>
                     </div>
