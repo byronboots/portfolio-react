@@ -38,6 +38,10 @@ export function Experience() {
                                     <CalendarFill className='icon'/>September 2022 - December 2024 (Anticipated)
                                         <br></br>
                                         <br></br>
+                                    I'm a current Computer Science student at Oregon State University with anticipated graduation in December 2024. I've completed courses in Python Development, Data Structures, Algorithms, Discrete Structures, Web Development, Architecture and Assembly Development, and Database Management. During my time in the program I've gained experience with Python, JavaScript, SQL and NoSQL DBs, HTML, CSS, x86 Assembly, Git, React, Flask, Bash and other technologies and frameworks.
+                                    <br></br>
+                                    <br></br>
+                                    I've also participated in sponsored Hackathons and school sponsored events to gain additional experience and apply my learned skills. Building outside of school, I've enjoyed playing around with Web Development, Security, and puzzle solving through activities such as Advent of Code.
                                     </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="3">
