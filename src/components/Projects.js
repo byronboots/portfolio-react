@@ -4,6 +4,7 @@ import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.jpeg";
+import projImg5 from "../assets/img/project-img5.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 // import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -22,6 +23,12 @@ export const Projects = () => {
       description: "ChatterDog is a Flask application enabled via the PaLM API from Google and deployed using Google Cloud Run. It consumes user inputs and responds accordingly. The model has been tuned to respond as a dog would.",
       link: "https://github.com/byronboots/chatterdog",
       imgUrl: projImg4,
+    },
+    {
+      title: "Running Rainbow",
+      description: "Running Rainbow is a Flask powered website with a MySQL DB used for storing running shoe details for a fictitious running store. The website was developed using agile development practices and asynchronous communication with a partner and with continuous feedback from other students.",
+      link: "https://github.com/byronboots/runningrainbow",
+      imgUrl: projImg5,
     },
     {
       title: "HashMap",
